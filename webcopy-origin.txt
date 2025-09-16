@@ -1,0 +1,552 @@
+Uri: http://clapat.ro/themes/bennet/about.html
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\about.html
+Content Type: text/html
+
+Uri: http://clapat.ro/themes/bennet/contact.html
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\contact.html
+Content Type: text/html
+
+Uri: http://clapat.ro/themes/bennet/css/all.min.css
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\css\all.min.css
+Content Type: text/css
+
+Uri: http://clapat.ro/themes/bennet/css/assets.css
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\css\assets.css
+Content Type: text/css
+
+Uri: http://clapat.ro/themes/bennet/css/content.css
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\css\content.css
+Content Type: text/css
+
+Uri: http://clapat.ro/themes/bennet/css/portfolio.css
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\css\portfolio.css
+Content Type: text/css
+
+Uri: http://clapat.ro/themes/bennet/css/shortcodes.css
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\css\shortcodes.css
+Content Type: text/css
+
+Uri: http://clapat.ro/themes/bennet/css/showcase.css
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\css\showcase.css
+Content Type: text/css
+
+Uri: http://clapat.ro/themes/bennet/favicon.ico
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://clapat.ro/themes/bennet/images/01hero.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\01hero.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/01hero1.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\01hero1.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/02hero.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\02hero.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/02hero1.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\02hero1.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/03hero.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\03hero.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/03hero1.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\03hero1.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/04hero.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\04hero.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/04hero.mp4
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\04hero.mp4
+Content Type: video/mp4
+
+Uri: http://clapat.ro/themes/bennet/images/04hero_webgl.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\04hero_webgl.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/05hero.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\05hero.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/05hero1.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\05hero1.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/06hero.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\06hero.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/06hero1.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\06hero1.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/07hero.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\07hero.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/07hero1.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\07hero1.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/08hero.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\08hero.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/about.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\about.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/client-01.png
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\client-01.png
+Content Type: image/png
+
+Uri: http://clapat.ro/themes/bennet/images/client-02.png
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\client-02.png
+Content Type: image/png
+
+Uri: http://clapat.ro/themes/bennet/images/client-03.png
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\client-03.png
+Content Type: image/png
+
+Uri: http://clapat.ro/themes/bennet/images/client-04.png
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\client-04.png
+Content Type: image/png
+
+Uri: http://clapat.ro/themes/bennet/images/client-05.png
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\client-05.png
+Content Type: image/png
+
+Uri: http://clapat.ro/themes/bennet/images/client-06.png
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\client-06.png
+Content Type: image/png
+
+Uri: http://clapat.ro/themes/bennet/images/client-07.png
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\client-07.png
+Content Type: image/png
+
+Uri: http://clapat.ro/themes/bennet/images/client-08.png
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\client-08.png
+Content Type: image/png
+
+Uri: http://clapat.ro/themes/bennet/images/clients-bottom-white.png
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\clients-bottom-white.png
+Content Type: image/png
+
+Uri: http://clapat.ro/themes/bennet/images/clients-bottom.png
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\clients-bottom.png
+Content Type: image/png
+
+Uri: http://clapat.ro/themes/bennet/images/clients-middle-white.png
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\clients-middle-white.png
+Content Type: image/png
+
+Uri: http://clapat.ro/themes/bennet/images/clients-middle.png
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\clients-middle.png
+Content Type: image/png
+
+Uri: http://clapat.ro/themes/bennet/images/clients-top-white.png
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\clients-top-white.png
+Content Type: image/png
+
+Uri: http://clapat.ro/themes/bennet/images/clients-top.png
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\clients-top.png
+Content Type: image/png
+
+Uri: http://clapat.ro/themes/bennet/images/intro.mp4
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\intro.mp4
+Content Type: video/mp4
+
+Uri: http://clapat.ro/themes/bennet/images/logo-white.png
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\logo-white.png
+Content Type: image/png
+
+Uri: http://clapat.ro/themes/bennet/images/logo.png
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\logo.png
+Content Type: image/png
+
+Uri: http://clapat.ro/themes/bennet/images/projects/astronaut01.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\projects\astronaut01.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/projects/chair01.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\projects\chair01.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/projects/chair02.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\projects\chair02.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/projects/chair03.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\projects\chair03.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/projects/kivira01.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\projects\kivira01.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/projects/kivira02.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\projects\kivira02.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/projects/kivira03.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\projects\kivira03.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/projects/nanotech01.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\projects\nanotech01.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/projects/nanotech02.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\projects\nanotech02.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/projects/nanotech03.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\projects\nanotech03.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/projects/son01.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\projects\son01.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/projects/son02.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\projects\son02.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/projects/son03.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\projects\son03.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/projects/son04.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\projects\son04.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/projects/son05.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\projects\son05.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/projects/son06.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\projects\son06.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/projects/stena01.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\projects\stena01.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/projects/stena02.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\projects\stena02.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/projects/stena03.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\projects\stena03.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/projects/stena04.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\projects\stena04.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/projects/stena05.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\projects\stena05.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/projects/stena06.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\projects\stena06.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/projects/voxa01.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\projects\voxa01.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/projects/voxa02.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\projects\voxa02.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/projects/voxa03.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\projects\voxa03.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/projects/vxlab01.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\projects\vxlab01.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/projects/vxlab02.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\projects\vxlab02.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/projects/vxlab03.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\projects\vxlab03.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/projects/vxlab04.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\projects\vxlab04.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/rotate.png
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\rotate.png
+Content Type: image/png
+
+Uri: http://clapat.ro/themes/bennet/images/shortcodes/collage01.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\shortcodes\collage01.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/shortcodes/collage02.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\shortcodes\collage02.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/shortcodes/collage03.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\shortcodes\collage03.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/shortcodes/collage04.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\shortcodes\collage04.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/shortcodes/collage05.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\shortcodes\collage05.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/shortcodes/collage06.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\shortcodes\collage06.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/shortcodes/collage07.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\shortcodes\collage07.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/shortcodes/image01.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\shortcodes\image01.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/shortcodes/image02.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\shortcodes\image02.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/shortcodes/image03.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\shortcodes\image03.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/shortcodes/image04.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\shortcodes\image04.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/shortcodes/pinned01.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\shortcodes\pinned01.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/shortcodes/pinned02.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\shortcodes\pinned02.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/team1.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\team1.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/team2.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\team2.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/team3.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\team3.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/team4.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\team4.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/team5.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\team5.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/images/team6.jpg
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\images\team6.jpg
+Content Type: image/jpeg
+
+Uri: http://clapat.ro/themes/bennet/index-highlights.html
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\index-highlights.html
+Content Type: text/html
+
+Uri: http://clapat.ro/themes/bennet/index-playground.html
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\index-playground.html
+Content Type: text/html
+
+Uri: http://clapat.ro/themes/bennet/index-portfolio.html
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\index-portfolio.html
+Content Type: text/html
+
+Uri: http://clapat.ro/themes/bennet/index.html
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\index.html
+Content Type: text/html
+
+Uri: http://clapat.ro/themes/bennet/js/clapat.js
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\js\clapat.js
+Content Type: application/javascript
+
+Uri: http://clapat.ro/themes/bennet/js/common.js
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\js\common.js
+Content Type: application/javascript
+
+Uri: http://clapat.ro/themes/bennet/js/contact.js
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\js\contact.js
+Content Type: application/javascript
+
+Uri: http://clapat.ro/themes/bennet/js/jquery.min.js
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://clapat.ro/themes/bennet/js/plugins.js
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\js\plugins.js
+Content Type: application/javascript
+
+Uri: http://clapat.ro/themes/bennet/js/scripts.js
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\js\scripts.js
+Content Type: application/javascript
+
+Uri: http://clapat.ro/themes/bennet/multimedia.html
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\multimedia.html
+Content Type: text/html
+
+Uri: http://clapat.ro/themes/bennet/project01.html
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\project01.html
+Content Type: text/html
+
+Uri: http://clapat.ro/themes/bennet/project02.html
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\project02.html
+Content Type: text/html
+
+Uri: http://clapat.ro/themes/bennet/project03.html
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\project03.html
+Content Type: text/html
+
+Uri: http://clapat.ro/themes/bennet/project04.html
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\project04.html
+Content Type: text/html
+
+Uri: http://clapat.ro/themes/bennet/project05.html
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\project05.html
+Content Type: text/html
+
+Uri: http://clapat.ro/themes/bennet/project06.html
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\project06.html
+Content Type: text/html
+
+Uri: http://clapat.ro/themes/bennet/project07.html
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\project07.html
+Content Type: text/html
+
+Uri: http://clapat.ro/themes/bennet/project08.html
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\project08.html
+Content Type: text/html
+
+Uri: http://clapat.ro/themes/bennet/resources.html
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\resources.html
+Content Type: text/html
+
+Uri: http://clapat.ro/themes/bennet/shortcodes.html
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\shortcodes.html
+Content Type: text/html
+
+Uri: http://clapat.ro/themes/bennet/style.css
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\style.css
+Content Type: text/css
+
+Uri: http://clapat.ro/themes/bennet/webfonts/fa-brands-400.ttf
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: http://clapat.ro/themes/bennet/webfonts/fa-brands-400.woff2
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: http://clapat.ro/themes/bennet/webfonts/fa-regular-400.ttf
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: http://clapat.ro/themes/bennet/webfonts/fa-regular-400.woff2
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: http://clapat.ro/themes/bennet/webfonts/fa-solid-900.ttf
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: http://clapat.ro/themes/bennet/webfonts/fa-solid-900.woff2
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: http://clapat.ro/themes/bennet/webfonts/fa-v4compatibility.ttf
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\webfonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: http://clapat.ro/themes/bennet/webfonts/fa-v4compatibility.woff2
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\themes\bennet\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/Flip.min.js
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\ajax\libs\gsap\3.11.4\Flip.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\ajax\libs\gsap\3.11.4\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollTrigger.min.js
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\ajax\libs\gsap\3.11.4\ScrollTrigger.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/5.0.0/imagesloaded.pkgd.min.js
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\ajax\libs\jquery.imagesloaded\5.0.0\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/smooth-scrollbar/8.4.0/smooth-scrollbar.js
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\ajax\libs\smooth-scrollbar\8.4.0\smooth-scrollbar.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\ajax\libs\three.js\r128\three.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&family=Poppins:wght@400;500;600&display=swap
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vUDQ.ttf
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\s\playfairdisplay\v37\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vUDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvUDQ.ttf
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\s\playfairdisplay\v37\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvUDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebukDQ.ttf
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\s\playfairdisplay\v37\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebukDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiukDQ.ttf
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\s\playfairdisplay\v37\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiukDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfFukDQ.ttf
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\s\playfairdisplay\v37\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfFukDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfsukDQ.ttf
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\s\playfairdisplay\v37\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfsukDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\s\poppins\v22\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\s\poppins\v22\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Users\akash\OneDrive\Desktop\New folder\clapat.ro\s\poppins\v22\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
